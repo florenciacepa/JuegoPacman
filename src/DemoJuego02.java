@@ -1,10 +1,4 @@
-/**
-Compilar
-javac -cp ".;bucleJuego.jar" DemoJuego02.java 
 
-Ejecutar
-java -cp ".;bucleJuego.jar" DemoJuego02
-  */
  
 
 import com.entropyinteractive.*;
